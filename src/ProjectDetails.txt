@@ -1,0 +1,10 @@
+2020 TODO or Pre-Requisite for Mastering Cypress: 
+
+1. Mastering html
+2. Mastering CSS
+3. Mastering JavaScript
+4. Project 1 - With HTML, CSS & JS 
+5. Project 2 - With 1% HTMl, 25% CSS, 75% JavaScript with complete DOM Traversing
+6. Hosting Project 1, Project 2 for public access
+7. Pushing Project 1, Project 2 into Personal GITHUB Repo
+---------------------------------------------------------------------------------
